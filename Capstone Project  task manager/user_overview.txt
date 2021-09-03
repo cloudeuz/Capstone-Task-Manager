@@ -1,0 +1,16 @@
+The total number of users : 4
+The total number of tasks: 5
+
+User name: admin
+Total number of tasks assigned:3
+Percentage of the total number of tasks:60.0%
+Percentage of the total number of tasks completed33.33333333333333%
+Percentage of the total number of tasks not completed 66.66666666666666%
+Percentage of the total number of tasks not completed and overdue66.66666666666666
+
+User name: ben
+Total number of tasks assigned:2
+Percentage of the total number of tasks:40.0%
+Percentage of the total number of tasks completed33.33333333333333%
+Percentage of the total number of tasks not completed 100.0%
+Percentage of the total number of tasks not completed and overdue50.0
